@@ -17,9 +17,9 @@ font-size: larger;
 #about{
   margin: 15px;
   text-align: center;
-text-align: center;
-padding-top: 50px;
-padding-bottom: 50px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 #services{
@@ -253,7 +253,7 @@ padding-top: 50px;
 #footer{
   text-align: center;
   margin: 15px;
-  font-style: italic;
+  font-family: cursive;
   font-size: medium;
   font-weight: lighter;
   padding-top: 30px;

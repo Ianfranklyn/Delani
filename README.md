@@ -8,6 +8,7 @@ It is a studio website for Developers in portfolio format.
 * Clone the repo  git@github.com:Ianfranklyn/Delani.git
 ## Live link
 
+https://ianfranklyn.github.io/Delani/
 ## Technologies Used
 HTML,Bootstrap,CSS,Javascript,Jquery
 ### License
